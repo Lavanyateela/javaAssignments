@@ -1,0 +1,16 @@
+The file C:\Users\Teela.Lavanya\IdeaProjects\assignment11\src\test.txt contains: 
+c has repeated 2 times
+e has repeated 5 times
+g has repeated 1 times
+H has repeated 1 times
+h has repeated 1 times
+i has repeated 3 times
+l has repeated 2 times
+m has repeated 2 times
+n has repeated 1 times
+o has repeated 6 times
+s has repeated 2 times
+t has repeated 1 times
+T has repeated 1 times
+W has repeated 1 times
+Z has repeated 1 times
